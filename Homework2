@@ -16,14 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
   # of pull requests accepted (from ____):
 1c. Working with github could be made easier by just making it more intuitive, I found it difficult to use without being taught exactly how to do everything. In addition, Google Docs and similar programs allow you to edit the same document at the exact same time, so github could be improved by allowing that instead of having to go through all the pushing and pulling of repositories. Finally, I've found that working with github is easier when you are communicating effectively with whoever you are working with.
 
-2.
-life5060 <- read.csv("https://raw.githubusercontent.com/ds202-at-isu/materials/master/01_collaborative-environment/data/gapminder-5060.csv")
-US1 <- life5060[life5060$country == "United States", ]
-library(magrittr)
-library(tidyverse)
-US1 %>% 
-  ggplot(aes(x = year, y = lifeExp)) +
-  geom_line()
+2. See "Data Graphing"
 
 3.  Image: https://analyticsindiamag.com/wp-content/uploads/2018/11/sub2.png
 Jobs that use Data Science:
