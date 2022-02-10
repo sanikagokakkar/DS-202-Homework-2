@@ -45,9 +45,23 @@ Please use Github to collaborate on this problem. For example, one member can cr
       >See "Data Graph (Part B).Rmd" + relevant screenshots
 
 3. Write a paragraph (~200 words) describing an example of what you consider data science. Write your paragraph in R Markdown. Include at least
-    a. one link to a chart or an image and
-    b. at least one itemized or enumerated list.
+a. one link to a chart or an image and
+b. at least one itemized or enumerated list.
 
+    I view data science in terms of the common Venn diagram showing the intersection of Math, Computer Science and Domain knowledge.
+      
+    Image: https://cdn-images-1.medium.com/max/800/1*y2VQ3E5MAP-np4sTA_OvWA.png
+    
+    As a computer science major, I approach the subject primarily from that side of the equation. To me, data science is a concrete application of computer science skills, from fundamental programming to machine learning and AI:
+  
+      * Language expertise (typically Python or R)
+      * Database design and/or integration
+      * Data processing
+      * Data modeling
+      * Machine learning
+      * Artifical intelligence
+      
+    None of these skills exists in a vaccum, however, and mathematics and domain expertise are equally as relevant. That's one of the most exciting aspects of data science to me, you can't be just one thing. You have to bring a diverse set of skills and knowledge to the problem in order to uncover the most useful and effective solutions.
 
 Note: your submission is supposed to be fully reproducible, i.e. the TA and I will 'knit' your submission in RStudio. Including the link to the image is the tricky part here. Make sure that you don't use any file structure that depends on your computing environment.
 
