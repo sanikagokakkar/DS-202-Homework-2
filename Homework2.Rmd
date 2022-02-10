@@ -12,8 +12,12 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Due: 2/9/2022 before 11:59pm. Submit in Canvas (file upload).
 
 1b. Team Members:
-  # of pull requests made (to ____): 
-  # of pull requests accepted (from ____):
+  Total # of pull requests made: 2
+    1 pull request made to: https://github.com/sanikagokakkar/practice1-sanikagokakkar
+    1 pull request made to: https://github.com/dlkeith-isu/practice1-dlkeith
+  Total # of pull requests accepted: 2
+    1 pull request accepted from: https://github.com/sanikagokakkar/practice1-trae-anderson
+    1 pull request accepted from: https://github.com/dlkeith-isu/practice1-trae-anderson
 1c. Working with github could be made easier by just making it more intuitive, I found it difficult to use without being taught exactly how to do everything. In addition, Google Docs and similar programs allow you to edit the same document at the exact same time, so github could be improved by allowing that instead of having to go through all the pushing and pulling of repositories. Finally, I've found that working with github is easier when you are communicating effectively with whoever you are working with.
 
 2. See "Data Graphing"
